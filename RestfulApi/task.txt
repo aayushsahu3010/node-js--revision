@@ -1,0 +1,18 @@
+Rest ful api -json data 
+
+
+get/user - list all user 
+get/api/users - list all user-> mobile freindly  
+
+
+get /user /1 - get the user with id 1 
+get/user/2 -get the user with id 1 
+
+post/users- create new user 
+
+
+patch/user/1-edit the user with id 1 
+
+delete/users/1 = delete with particular id 
+
+
